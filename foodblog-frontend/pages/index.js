@@ -9,7 +9,7 @@ export default function HomePage(props) {
     <Layout>
       <h1>Music Events</h1>
       {props.events.map((event) => {
-        return <EventItem key={event.id} eventData={event} />
+        return <EventItem key={event.id} eventData={event} />;
       })}
     </Layout>
   );
