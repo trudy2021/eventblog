@@ -1,0 +1,26 @@
+.event {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 0;
+  padding: 13px;
+  box-shadow: 2px 3px 5px rgba(0, 0, 0, 0.1);
+}
+
+.img {
+  flex: 1;
+  margin: 10px;
+}
+
+.info {
+  flex: 2.5;
+}
+
+/*padding. background-orange, color-white,border radius*/
+.link{
+  padding: 1rem;
+  background-color: purple;
+  border-radius: 1rem;
+  color: white;
+}
+
