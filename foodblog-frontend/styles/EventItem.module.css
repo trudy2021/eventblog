@@ -21,6 +21,9 @@
   padding: 1rem;
   background-color: purple;
   border-radius: 1rem;
+  
+}
+.link a{
   color: white;
 }
 

@@ -23,6 +23,18 @@
       "time": "9:00 PM GMT+3",
       "description": "featuring dances,party anthems and nostalgic songs from the best years of music",
       "image": "/images/sample/event2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Music Festival experience",
+      "slug": "music-festival-femidevs",
+      "venue": "Lakehub",
+      "address": "2200, 23rd Avenue, Kisumu",
+      "performers": "DJ Trudy",
+      "date": "November 20, 2021",
+      "time": "9:00 PM GMT+3",
+      "description": "featuring classicals,party songs from the early 2000s",
+      "image": "/images/sample/event3.jpg"
     }
   ]
 }
